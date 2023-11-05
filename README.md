@@ -1,4 +1,5 @@
-# '$\LaTeX$' character counter
+# LaTeX character counter
+# $\LaTeX$
 Caharcter counter for _Széchenyi István College for Advanced Studies_' $\LaTeX$ term paper. It counts only the body text (from the Introduction and before References). No spaces.
 
 Current Jupyter notebook is available at: 
