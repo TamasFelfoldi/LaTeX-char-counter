@@ -1,5 +1,5 @@
 # LaTeX-char-counter
-Caharcter counter for _Széchenyi István College for Advanced Studies_' $\Latex\$ term paper. It counts only the body text (from the Introduction and before References). No spaces.
+Caharcter counter for _Széchenyi István College for Advanced Studies_' $\LaTeX$ term paper. It counts only the body text (from the Introduction and before References). No spaces.
 
 Current Jupyter notebook is available at: 
 Start a new binder:
